@@ -1,0 +1,28 @@
+body    {
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid    {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card   {
+    padding: 10px;
+}
+
+.email-group    {
+    margin: 15px 0 10px 0;
+}
+
+.form-check {
+    margin: 1rem 0 1rem 0;
+}
+
+.signup-button  {
+    position: relative;
+    left: 24rem;
+}
