@@ -23,8 +23,7 @@ body    {
 }
 
 .signup-button  {
-    position: relative;
-    left: 24rem;
+    margin-top: 10px;
 }
 
 .error  {
